@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:10:19.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tJ8byFFKre774RmxgabY" version="21.3.8" type="github">
+  <diagram name="ページ1" id="HAY_1o683OfQyKApigb7">
+    <mxGraphModel dx="794" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxR2uMTwniyg6m4cQqe6-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="380" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="MxR2uMTwniyg6m4cQqe6-2" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="MxR2uMTwniyg6m4cQqe6-1">
+          <mxGeometry x="20" width="120" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="MxR2uMTwniyg6m4cQqe6-3" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="MxR2uMTwniyg6m4cQqe6-1">
+          <mxGeometry x="140" width="120" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="MxR2uMTwniyg6m4cQqe6-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="MxR2uMTwniyg6m4cQqe6-1">
+          <mxGeometry x="260" width="120" height="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
