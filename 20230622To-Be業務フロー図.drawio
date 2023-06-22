@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T14:40:01.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="46GBPWyW6vQ6vdBb2gRB" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-22T14:42:05.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="40FvqAtKgITkY9NN-PXZ" version="21.5.0" type="github" pages="3">
   <diagram name="アタックリスト作成" id="6XdwqxCeYwe2rvfDVIGw">
     <mxGraphModel dx="1591" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="CgkbCNKffJWYKyCrZS3h-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-2" source="CgkbCNKffJWYKyCrZS3h-8" target="CgkbCNKffJWYKyCrZS3h-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CgkbCNKffJWYKyCrZS3h-8" value="定期性要因の有無" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-2">
+        <mxCell id="CgkbCNKffJWYKyCrZS3h-8" value="定期性要因の有無" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-2">
           <mxGeometry x="60" y="500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-10" value="提案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-2">
@@ -115,7 +115,7 @@
         <mxCell id="ep-Ipgn7JQY2wO0V79qC-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="ep-Ipgn7JQY2wO0V79qC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ep-Ipgn7JQY2wO0V79qC-3" value="定期性要因の有無" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
+        <mxCell id="ep-Ipgn7JQY2wO0V79qC-3" value="定期性要因の有無" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
           <mxGeometry x="145" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-5" target="CgkbCNKffJWYKyCrZS3h-2">
