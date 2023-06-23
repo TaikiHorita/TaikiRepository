@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T12:30:21.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GrmkNLOLWWqWHxNyTBFy" version="21.5.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-23T12:41:17.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nUHt_87Eym6CBzlyEX8S" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="1034" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -492,6 +492,44 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dDyimD24jCjhRqus-62W" name="ページ6">
+    <mxGraphModel dx="393" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x-rmQaR-g8VEzOz27R-A-1" value="再提案" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="-1130" width="400" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="x-rmQaR-g8VEzOz27R-A-2" value="顧客" style="swimlane;startSize=40;html=1;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-1">
+          <mxGeometry y="20" width="190" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="yZKR_X1jc1LAPye0Qz4H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x-rmQaR-g8VEzOz27R-A-2" source="85sIrTEe8sM3ZKhgTOOK-1" target="yZKR_X1jc1LAPye0Qz4H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85sIrTEe8sM3ZKhgTOOK-1" value="再提案対応" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-2">
+          <mxGeometry x="37.5" y="50" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZKR_X1jc1LAPye0Qz4H-1" value="再提案&lt;br&gt;受け入れ" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-2">
+          <mxGeometry x="35" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x-rmQaR-g8VEzOz27R-A-3" value="営業本部&lt;br&gt;（事業会社部・SIer部）" style="swimlane;startSize=40;html=1;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-1">
+          <mxGeometry x="190" y="20" width="210" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="x-rmQaR-g8VEzOz27R-A-5" value="再提案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-3">
+          <mxGeometry x="52.5" y="50" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZKR_X1jc1LAPye0Qz4H-3" value="案件クローズ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="x-rmQaR-g8VEzOz27R-A-3">
+          <mxGeometry x="47.5" y="185" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="85sIrTEe8sM3ZKhgTOOK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x-rmQaR-g8VEzOz27R-A-1" source="x-rmQaR-g8VEzOz27R-A-5" target="85sIrTEe8sM3ZKhgTOOK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZKR_X1jc1LAPye0Qz4H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x-rmQaR-g8VEzOz27R-A-1" source="yZKR_X1jc1LAPye0Qz4H-1" target="yZKR_X1jc1LAPye0Qz4H-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
