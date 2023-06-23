@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T09:16:03.422Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1" etag="wdYfrIIc7flK2Vpgv41j" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:17:09.996Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1" etag="pYhdZwAGtH4n7ZEHEeoY" version="21.5.0" type="github" pages="4">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="712" dy="2251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="1o7DLs5dzfAfiW55aEhq-5" value="処理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="264" y="-835" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1o7DLs5dzfAfiW55aEhq-6" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1o7DLs5dzfAfiW55aEhq-8" value="分岐" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="251" y="-695" width="86" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
