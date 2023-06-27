@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T07:19:22.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H3oZGI2tjYqCOtMNsmdh" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:24:39.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="79rvktFDIxV-u371h4lL" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="2298" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wA_WfhvIzHAYOIYMTL-6" name="ヒアリング～案件">
-    <mxGraphModel dx="2585" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,8 +401,11 @@
         <mxCell id="RLPgfjMIlKf8fK8N81-h-5" value="ステータス＝受注" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-4">
           <mxGeometry x="-60" y="1150" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RLPgfjMIlKf8fK8N81-h-6" value="・クライアント&lt;br&gt;・案件名&lt;br&gt;・期間From&lt;br&gt;・期間To&lt;br&gt;・人月&lt;br&gt;・単価&lt;br&gt;・売上&lt;br&gt;・利益" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.4;size=40;position=0.15;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-4">
+        <mxCell id="RLPgfjMIlKf8fK8N81-h-6" value="・クライアント&lt;br&gt;・案件名&lt;br&gt;・期間From&lt;br&gt;・期間To&lt;br&gt;・人月&lt;br&gt;・単価&lt;br&gt;・売上&lt;br&gt;・利益" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.4;size=40;position=0.15;align=left;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-4">
           <mxGeometry x="-70" y="1390" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SOmXxq1O9jwyrW44La1z-2" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;・クライアント&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;・契約名&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・契約概要&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・要員数&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・スキル&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・期間&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・ステータス&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・備考&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.6;size=30;position=0.33;base=31;align=left;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-4">
+          <mxGeometry x="-70" y="1220" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RLPgfjMIlKf8fK8N81-h-3" value="ステータス＝提案中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;position2=0.33;" vertex="1" parent="1">
           <mxGeometry x="60" y="-1760" width="160" height="60" as="geometry" />
@@ -411,12 +414,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w17EY7a9lUCxT96ASvQw" name="提案交渉">
-    <mxGraphModel dx="2298" dy="2118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-1" value="提案交渉" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
-          <mxGeometry y="-1136" width="800" height="2890" as="geometry" />
+          <mxGeometry x="14" y="-1136" width="800" height="2890" as="geometry" />
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-2" value="顧客" style="swimlane;startSize=40;html=1;" parent="5ZsLxz6eY7mTCzfrgvc2-1" vertex="1">
           <mxGeometry y="20" width="160" height="2870" as="geometry" />
@@ -612,22 +615,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-1" value="金額＝変更後提案金額" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.36;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-146" width="160" height="60" as="geometry" />
+          <mxGeometry x="24" y="-146" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-2" value="ステータス＝提案中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.36;direction=north;base=10;" vertex="1" parent="1">
-          <mxGeometry x="10" y="114" width="150" height="40" as="geometry" />
+          <mxGeometry x="24" y="114" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-4" value="ステータス＝失注" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="10" y="834" width="150" height="60" as="geometry" />
+          <mxGeometry x="24" y="834" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-5" value="金額＝変更前提案金額" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1304" width="160" height="60" as="geometry" />
+          <mxGeometry x="24" y="1304" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dDyimD24jCjhRqus-62W" name="再提案">
-    <mxGraphModel dx="1123" dy="2526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
