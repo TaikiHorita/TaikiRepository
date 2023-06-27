@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T07:31:13.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xpT0wHnS3ZgqsPTaY6dj" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:37:17.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5WFt3RC0KR9lH7d6E6mc" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
-    <mxGraphModel dx="2298" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="95fKoSYgu_-Y0NN4SfjF-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-1100" width="590" height="590" as="geometry" />
+          <mxGeometry x="64" y="-1090" width="700" height="700" as="geometry" />
         </mxCell>
         <mxCell id="95fKoSYgu_-Y0NN4SfjF-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px; background-color: rgb(77, 77, 77);&quot;&gt;凡例&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="344" y="-1080" width="140" height="20" as="geometry" />
@@ -31,20 +31,26 @@
         <mxCell id="6vsag00mPE-j-pG3ZVVu-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="227" y="-690" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6vsag00mPE-j-pG3ZVVu-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sales Cloudオブジェクト&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="431" y="-670" width="226" height="30" as="geometry" />
+        <mxCell id="6vsag00mPE-j-pG3ZVVu-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sales Cloudオブジェクト（標準）&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="-670" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNMOZ26pVQvT2_XfTCiq-1" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-584.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNMOZ26pVQvT2_XfTCiq-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;データ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="431" y="-569.5" width="226" height="30" as="geometry" />
+          <mxGeometry x="431" y="-500" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw4MGq_xxbuSXlyFqfY4-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-590" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw4MGq_xxbuSXlyFqfY4-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sales Cloudオブジェクト（カスタム）&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="-580" width="319" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="アタックリスト作成" id="6XdwqxCeYwe2rvfDVIGw">
-    <mxGraphModel dx="1591" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dDyimD24jCjhRqus-62W" name="再提案">
-    <mxGraphModel dx="1477" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="523" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
