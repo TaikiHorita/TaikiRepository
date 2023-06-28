@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T11:37:55.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="o9RvMY7xAitIpA1Rggi7" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-28T12:13:56.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b4geA2g9b27TCIj4Np1U" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="1607" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U3g6PsqkJRpExe10e3pv" name="提案">
-    <mxGraphModel dx="1499" dy="2983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="3288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,7 +372,7 @@
           <mxGeometry x="242" y="874" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-18" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;案件&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="249.75" y="1297" width="110" height="70" as="geometry" />
+          <mxGeometry x="249.75" y="1302" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bXa9ik0QpTQZWGHiXE9w-3" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;案件&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="-38" y="580" width="110" height="70" as="geometry" />
@@ -416,8 +416,10 @@
         <mxCell id="5VYHyZ97xjCam4TJDJ00-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="5VYHyZ97xjCam4TJDJ00-8" target="CgkbCNKffJWYKyCrZS3h-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5VYHyZ97xjCam4TJDJ00-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="5VYHyZ97xjCam4TJDJ00-8" target="5VYHyZ97xjCam4TJDJ00-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5VYHyZ97xjCam4TJDJ00-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="5VYHyZ97xjCam4TJDJ00-8" target="JvuHrvA-f69r37HE9Yix-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5VYHyZ97xjCam4TJDJ00-8" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
           <mxGeometry x="53" y="829" width="95" height="35" as="geometry" />
@@ -436,9 +438,6 @@
             <mxPoint x="352" y="324" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5VYHyZ97xjCam4TJDJ00-15" value="終了" style="ellipse;whiteSpace=wrap;html=1;fontFamily=メイリオ;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
-          <mxGeometry x="55" y="910" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0n6pLK1D_HdYB_-zyVy8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="5VYHyZ97xjCam4TJDJ00-17" target="CgkbCNKffJWYKyCrZS3h-18">
           <mxGeometry relative="1" as="geometry" />
@@ -496,6 +495,9 @@
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-10" value="システム部へ&lt;br&gt;報告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
           <mxGeometry x="89.75" y="1640" width="95" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="JvuHrvA-f69r37HE9Yix-1" value="4. 提案交渉" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
+          <mxGeometry x="60.5" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-4" target="CgkbCNKffJWYKyCrZS3h-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -548,27 +550,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w17EY7a9lUCxT96ASvQw" name="提案交渉">
-    <mxGraphModel dx="1607" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="644" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-1" value="4. 提案交渉" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontFamily=メイリオ;" parent="1" vertex="1">
-          <mxGeometry x="14" y="-1136" width="800" height="2890" as="geometry" />
+          <mxGeometry x="14" y="-1136" width="800" height="2640" as="geometry" />
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-2" value="顧客" style="swimlane;startSize=40;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" vertex="1">
-          <mxGeometry y="20" width="160" height="2870" as="geometry" />
+          <mxGeometry y="20" width="160" height="2620" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-4" value="ステータス＝失注" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fontFamily=メイリオ;" vertex="1" parent="5ZsLxz6eY7mTCzfrgvc2-2">
-          <mxGeometry y="1766" width="150" height="60" as="geometry" />
+          <mxGeometry x="15" y="1782" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-3" value="営業本部&lt;br&gt;（事業会社部・SIer部）" style="swimlane;startSize=40;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" vertex="1">
-          <mxGeometry x="160" y="20" width="380" height="2870" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZsLxz6eY7mTCzfrgvc2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="5ZsLxz6eY7mTCzfrgvc2-6" target="5ZsLxz6eY7mTCzfrgvc2-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5ZsLxz6eY7mTCzfrgvc2-6" value="開始" style="ellipse;whiteSpace=wrap;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="20" width="380" height="2620" as="geometry" />
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-10" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="5ZsLxz6eY7mTCzfrgvc2-7" target="5ZsLxz6eY7mTCzfrgvc2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -576,9 +572,9 @@
         <mxCell id="oO4LKCAVCbXohjBAmY33-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="5ZsLxz6eY7mTCzfrgvc2-7" target="oO4LKCAVCbXohjBAmY33-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="210" />
-              <mxPoint x="330" y="410" />
-              <mxPoint x="190" y="410" />
+              <mxPoint x="345" y="226" />
+              <mxPoint x="345" y="426" />
+              <mxPoint x="205" y="426" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -588,42 +584,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-7" value="要員変更" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="186" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oO4LKCAVCbXohjBAmY33-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="5ZsLxz6eY7mTCzfrgvc2-9" target="oO4LKCAVCbXohjBAmY33-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ZsLxz6eY7mTCzfrgvc2-9" value="要員選定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="336" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oO4LKCAVCbXohjBAmY33-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="oO4LKCAVCbXohjBAmY33-1" target="5ZsLxz6eY7mTCzfrgvc2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oO4LKCAVCbXohjBAmY33-1" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;要員&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="250" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="266" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-2" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="oO4LKCAVCbXohjBAmY33-4" target="DKEezsGEi6YGIOhxBoTS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="oO4LKCAVCbXohjBAmY33-4" target="DKEezsGEi6YGIOhxBoTS-5" edge="1">
           <mxGeometry x="-0.2292" relative="1" as="geometry">
-            <mxPoint x="190" y="820" as="targetPoint" />
+            <mxPoint x="205" y="836" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="486" />
-              <mxPoint x="320" y="870" />
-              <mxPoint x="190" y="870" />
+              <mxPoint x="335" y="502" />
+              <mxPoint x="335" y="886" />
+              <mxPoint x="205" y="886" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oO4LKCAVCbXohjBAmY33-4" value="提案金額変更" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="445.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="461.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-1" target="DKEezsGEi6YGIOhxBoTS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-1" value="提案金額変更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="596" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-3" target="DKEezsGEi6YGIOhxBoTS-5" edge="1">
           <mxGeometry x="-0.2857" relative="1" as="geometry">
@@ -631,7 +627,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-3" value="提案金額&lt;br&gt;＞&lt;br&gt;標準単価" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="716" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-5" target="DKEezsGEi6YGIOhxBoTS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -640,10 +636,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-5" value="見積書修正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="936" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;見積&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="980" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="996" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-10" target="DKEezsGEi6YGIOhxBoTS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -652,32 +648,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-10" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="1186" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;案件&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="1230" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="1246" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-14" value="終了" style="ellipse;whiteSpace=wrap;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="1340" width="120" height="70" as="geometry" />
+          <mxGeometry x="145" y="1356" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-19" target="DKEezsGEi6YGIOhxBoTS-23" edge="1">
           <mxGeometry x="-0.3793" relative="1" as="geometry">
-            <mxPoint x="106" y="1666" as="targetPoint" />
+            <mxPoint x="121" y="1682" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-30" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-19" target="DKEezsGEi6YGIOhxBoTS-29" edge="1">
           <mxGeometry x="-0.9121" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="1560" />
-              <mxPoint x="340" y="2046" />
-              <mxPoint x="190" y="2046" />
+              <mxPoint x="355" y="1576" />
+              <mxPoint x="355" y="2062" />
+              <mxPoint x="205" y="2062" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-19" value="失注" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="1520" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="1536" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-23" target="DKEezsGEi6YGIOhxBoTS-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -686,13 +682,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-23" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="1716" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="1732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-24" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;案件&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="1796" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="1812" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-27" value="失注" style="ellipse;whiteSpace=wrap;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="1906" width="120" height="70" as="geometry" />
+          <mxGeometry x="145" y="1922" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-29" target="DKEezsGEi6YGIOhxBoTS-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -701,10 +697,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-29" value="提案金額&lt;br&gt;変更取り消し" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="2093" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="2109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-31" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;見積&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="2183" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="2199" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="DKEezsGEi6YGIOhxBoTS-33" target="DKEezsGEi6YGIOhxBoTS-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -713,22 +709,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-33" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="130" y="2337" width="120" height="60" as="geometry" />
+          <mxGeometry x="145" y="2353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-35" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;案件&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="-10" y="2397" width="110" height="70" as="geometry" />
+          <mxGeometry x="5" y="2413" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-37" value="終了" style="ellipse;whiteSpace=wrap;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-3" vertex="1">
-          <mxGeometry x="135" y="2497" width="110" height="70" as="geometry" />
+          <mxGeometry x="150" y="2513" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-6" value="ステータス＝提案中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fontFamily=メイリオ;" vertex="1" parent="5ZsLxz6eY7mTCzfrgvc2-3">
-          <mxGeometry x="-150" y="2407" width="160" height="60" as="geometry" />
+          <mxGeometry x="-135" y="2423" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ZsLxz6eY7mTCzfrgvc2-4" value="営業本部上長" style="swimlane;startSize=40;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" vertex="1">
-          <mxGeometry x="540" y="20" width="260" height="2870" as="geometry" />
+        <mxCell id="k-wQRpepVLxdONwxl9ZG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="5ZsLxz6eY7mTCzfrgvc2-3" source="wsb49wEu2MZFETNViwLz-1" target="5ZsLxz6eY7mTCzfrgvc2-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="126" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DKEezsGEi6YGIOhxBoTS-16" value="提案金額承認" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-4" vertex="1">
-          <mxGeometry x="70" y="700" width="120" height="80" as="geometry" />
+        <mxCell id="wsb49wEu2MZFETNViwLz-1" value="開始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="5ZsLxz6eY7mTCzfrgvc2-3">
+          <mxGeometry x="145" y="46" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DKEezsGEi6YGIOhxBoTS-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" source="DKEezsGEi6YGIOhxBoTS-3" target="DKEezsGEi6YGIOhxBoTS-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -741,27 +739,33 @@
         <mxCell id="DKEezsGEi6YGIOhxBoTS-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" source="DKEezsGEi6YGIOhxBoTS-16" target="DKEezsGEi6YGIOhxBoTS-19" edge="1">
           <mxGeometry x="-0.8049" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="760" />
-              <mxPoint x="770" y="1500" />
-              <mxPoint x="350" y="1500" />
+              <mxPoint x="785" y="776" />
+              <mxPoint x="785" y="1516" />
+              <mxPoint x="365" y="1516" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5ZsLxz6eY7mTCzfrgvc2-4" value="営業本部上長" style="swimlane;startSize=40;html=1;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-1" vertex="1">
+          <mxGeometry x="540" y="20" width="260" height="2620" as="geometry" />
+        </mxCell>
+        <mxCell id="DKEezsGEi6YGIOhxBoTS-16" value="提案金額承認" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontFamily=メイリオ;" parent="5ZsLxz6eY7mTCzfrgvc2-4" vertex="1">
+          <mxGeometry x="85" y="716" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-1" value="金額＝変更後提案金額" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.36;direction=north;fontFamily=メイリオ;" vertex="1" parent="1">
-          <mxGeometry x="24" y="-146" width="160" height="60" as="geometry" />
+          <mxGeometry x="39" y="-130" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-2" value="ステータス＝提案中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.36;direction=north;base=10;fontFamily=メイリオ;" vertex="1" parent="1">
-          <mxGeometry x="24" y="114" width="150" height="40" as="geometry" />
+          <mxGeometry x="39" y="130" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i-0OtGba0ojmxpHckMT0-5" value="金額＝変更前提案金額" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fontFamily=メイリオ;" vertex="1" parent="1">
-          <mxGeometry x="24" y="1057" width="160" height="60" as="geometry" />
+          <mxGeometry x="39" y="1073" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dDyimD24jCjhRqus-62W" name="再提案">
-    <mxGraphModel dx="584" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
