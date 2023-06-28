@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:12:34.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eITpT2tYq-2Xa4dZR0c-" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-28T06:19:41.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QU-l5aB5qqusVDRFOVLC" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="1380" dy="2526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U3g6PsqkJRpExe10e3pv" name="提案">
-    <mxGraphModel dx="805" dy="3130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="3288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,8 +344,9 @@
           <mxGeometry x="281" y="250" width="95" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ep-Ipgn7JQY2wO0V79qC-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="5VYHyZ97xjCam4TJDJ00-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2271" relative="1" as="geometry">
             <mxPoint x="350" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5VYHyZ97xjCam4TJDJ00-15" value="終了" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
@@ -384,7 +385,7 @@
         <mxCell id="yqbfMocQtibjuYxWAJjp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="yqbfMocQtibjuYxWAJjp-1" target="yqbfMocQtibjuYxWAJjp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yqbfMocQtibjuYxWAJjp-1" value="新規恵沢情報作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
+        <mxCell id="yqbfMocQtibjuYxWAJjp-1" value="新規契約情報作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
           <mxGeometry x="84" y="1316.5" width="102.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yqbfMocQtibjuYxWAJjp-3" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;契約&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007FFF;" vertex="1" parent="4d2z-hPTyXuoOUNdP7N7-3">
