@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T07:29:22.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="odKxTOdZtJxHB9y0ZEwu" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-29T08:14:57.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HpRUqEFYfm6y-RK0xHnP" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="1323" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wA_WfhvIzHAYOIYMTL-6" name="ヒアリング～案件">
-    <mxGraphModel dx="522" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U3g6PsqkJRpExe10e3pv" name="提案">
-    <mxGraphModel dx="522" dy="3091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="3342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,19 +338,13 @@
         <mxCell id="CgkbCNKffJWYKyCrZS3h-6" value="提案対応" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-2" vertex="1">
           <mxGeometry x="61.5" y="704" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CgkbCNKffJWYKyCrZS3h-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-2" source="CgkbCNKffJWYKyCrZS3h-8" target="CgkbCNKffJWYKyCrZS3h-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-8" value="提案受け入れ" style="rhombus;whiteSpace=wrap;html=1;fillColor=#D5E8D4;fontFamily=Meiryo UI ;strokeColor=#97D077;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-2" vertex="1">
           <mxGeometry x="62" y="816.5" width="105" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CgkbCNKffJWYKyCrZS3h-10" value="契約" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-2" vertex="1">
-          <mxGeometry x="61.5" y="966.5" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4d2z-hPTyXuoOUNdP7N7-3" value="営業本部&lt;br style=&quot;font-size: 12px;&quot;&gt;（事業会社・SIer）" style="swimlane;startSize=30;html=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" vertex="1">
           <mxGeometry x="190" y="20" width="400" height="1840" as="geometry" />
         </mxCell>
-        <mxCell id="ep-Ipgn7JQY2wO0V79qC-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Meiryo UI ;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="5VYHyZ97xjCam4TJDJ00-1" edge="1">
+        <mxCell id="ep-Ipgn7JQY2wO0V79qC-8" value="あり" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Meiryo UI ;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="5VYHyZ97xjCam4TJDJ00-1" edge="1">
           <mxGeometry x="0.3209" relative="1" as="geometry">
             <mxPoint x="127" y="324" as="targetPoint" />
             <Array as="points">
@@ -372,7 +366,7 @@
           <mxGeometry x="242" y="874" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;案件&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="249.75" y="1305" width="100" height="60" as="geometry" />
+          <mxGeometry x="242" y="1305" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXa9ik0QpTQZWGHiXE9w-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;案件&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="-44" y="580" width="100" height="60" as="geometry" />
@@ -390,10 +384,10 @@
           <mxGeometry x="164.5" y="146" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TsxlSzLxPczDUt5ix8io-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;要員&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="249.75" y="1547.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="242" y="1547.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OLlgyJuXYVd8tMOlTWdF-6" value="終了" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Meiryo UI ;fillColor=#CCE5FF;strokeColor=#66B2FF;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="87.25" y="1720" width="100" height="60" as="geometry" />
+          <mxGeometry x="58" y="1720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VYHyZ97xjCam4TJDJ00-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="5VYHyZ97xjCam4TJDJ00-1" target="ep-Ipgn7JQY2wO0V79qC-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -433,7 +427,7 @@
         <mxCell id="5VYHyZ97xjCam4TJDJ00-11" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="283" y="324" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ep-Ipgn7JQY2wO0V79qC-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="5VYHyZ97xjCam4TJDJ00-11" edge="1">
+        <mxCell id="ep-Ipgn7JQY2wO0V79qC-6" value="なし" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="ep-Ipgn7JQY2wO0V79qC-3" target="5VYHyZ97xjCam4TJDJ00-11" edge="1">
           <mxGeometry x="0.3043" relative="1" as="geometry">
             <mxPoint x="352" y="324" as="targetPoint" />
             <mxPoint y="1" as="offset" />
@@ -446,7 +440,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5VYHyZ97xjCam4TJDJ00-17" value="案件情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="82.75" y="1260" width="105" height="50" as="geometry" />
+          <mxGeometry x="53.5" y="1260" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ffD7-tEqY-V_3M3eM5B6-5" value="・件名&lt;br style=&quot;font-size: 12px;&quot;&gt;・納期&lt;br style=&quot;font-size: 12px;&quot;&gt;・支払い条件&lt;br style=&quot;font-size: 12px;&quot;&gt;・有効期限&lt;br style=&quot;font-size: 12px;&quot;&gt;・合計&lt;br style=&quot;font-size: 12px;&quot;&gt;・概要&lt;br style=&quot;font-size: 12px;&quot;&gt;・数量&lt;br style=&quot;font-size: 12px;&quot;&gt;・単位&lt;br style=&quot;font-size: 12px;&quot;&gt;・単価&lt;br style=&quot;font-size: 12px;&quot;&gt;・金額&lt;br style=&quot;font-size: 12px;&quot;&gt;・小計消費税&lt;br style=&quot;font-size: 12px;&quot;&gt;・合計&lt;br style=&quot;font-size: 12px;&quot;&gt;・備考" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.52;direction=north;base=20;align=left;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="-150" y="295" width="130" height="210" as="geometry" />
@@ -458,15 +452,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ffD7-tEqY-V_3M3eM5B6-7" value="要員情報更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="83.25" y="1495.5" width="105" height="50" as="geometry" />
+          <mxGeometry x="54" y="1495.5" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yqbfMocQtibjuYxWAJjp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="7EcD6YeMjh5JOxx-mbjC-7" target="yqbfMocQtibjuYxWAJjp-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="179.9999999999999" y="1307.5" as="sourcePoint" />
+            <mxPoint x="150.7499999999999" y="1307.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yqbfMocQtibjuYxWAJjp-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;契約&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="249.75" y="1428.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="242" y="1428.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ep-Ipgn7JQY2wO0V79qC-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;案件&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="162.5" y="384" width="100" height="60" as="geometry" />
@@ -487,34 +481,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-7" value="契約情報&lt;br style=&quot;font-size: 12px;&quot;&gt;新規作成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="82.75" y="1380" width="105" height="50" as="geometry" />
+          <mxGeometry x="53.5" y="1380" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" source="7EcD6YeMjh5JOxx-mbjC-10" target="OLlgyJuXYVd8tMOlTWdF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-10" value="システム部へ&lt;br style=&quot;font-size: 12px;&quot;&gt;報告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="82.75" y="1640" width="105" height="50" as="geometry" />
+          <mxGeometry x="53.5" y="1640" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JvuHrvA-f69r37HE9Yix-1" value="4. 提案交渉" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#B266FF;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
           <mxGeometry x="55.5" y="920" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CgkbCNKffJWYKyCrZS3h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-4" target="CgkbCNKffJWYKyCrZS3h-6" edge="1">
+        <mxCell id="d8QximDrEez4A1cMWG7K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4d2z-hPTyXuoOUNdP7N7-3" source="CgkbCNKffJWYKyCrZS3h-10" target="5VYHyZ97xjCam4TJDJ00-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CgkbCNKffJWYKyCrZS3h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-10" target="5VYHyZ97xjCam4TJDJ00-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262" y="1094" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="114" y="1190" />
-              <mxPoint x="325" y="1190" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="CgkbCNKffJWYKyCrZS3h-10" value="契約" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontFamily=Meiryo UI ;strokeColor=#666666;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
+          <mxGeometry x="53" y="1120" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CgkbCNKffJWYKyCrZS3h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-4" target="CgkbCNKffJWYKyCrZS3h-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4d2z-hPTyXuoOUNdP7N7-4" value="営業事務" style="swimlane;startSize=30;html=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" vertex="1">
           <mxGeometry x="590" y="20" width="200" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="4d2z-hPTyXuoOUNdP7N7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;要員&lt;/span&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCFFFF;fontFamily=Meiryo UI ;strokeColor=#00CCCC;fontColor=#000000;fontStyle=0;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-4" vertex="1">
-          <mxGeometry x="47.5" y="224" width="100" height="60" as="geometry" />
+          <mxGeometry x="54.5" y="225" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0n6pLK1D_HdYB_-zyVy8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-4" source="5VYHyZ97xjCam4TJDJ00-9" target="4d2z-hPTyXuoOUNdP7N7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -529,19 +520,27 @@
           <mxGeometry x="39.5" y="279" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="RLPgfjMIlKf8fK8N81-h-5" value="ステータス＝受注" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-4" vertex="1">
-          <mxGeometry x="-57.5" y="1290" width="160" height="50" as="geometry" />
+          <mxGeometry x="-65.25" y="1290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RLPgfjMIlKf8fK8N81-h-6" value="・クライアント&lt;br style=&quot;font-size: 12px;&quot;&gt;・案件名&lt;br style=&quot;font-size: 12px;&quot;&gt;・期間From&lt;br style=&quot;font-size: 12px;&quot;&gt;・期間To&lt;br style=&quot;font-size: 12px;&quot;&gt;・人月&lt;br style=&quot;font-size: 12px;&quot;&gt;・単価&lt;br style=&quot;font-size: 12px;&quot;&gt;・売上&lt;br style=&quot;font-size: 12px;&quot;&gt;・利益" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.4;size=40;position=0.15;align=left;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-4" vertex="1">
-          <mxGeometry x="-67.5" y="1530" width="160" height="150" as="geometry" />
+          <mxGeometry x="-75.25" y="1530" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="SOmXxq1O9jwyrW44La1z-2" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;・クライアント&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;・契約名&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・契約概要&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・要員数&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・スキル&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・期間From&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・期間To&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・ステータス&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 12px;&quot;&gt;・備考&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.6;size=30;position=0.33;base=31;align=left;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-4" vertex="1">
-          <mxGeometry x="-57.5" y="1360" width="160" height="150" as="geometry" />
+          <mxGeometry x="-65.25" y="1360" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-8" target="5VYHyZ97xjCam4TJDJ00-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7EcD6YeMjh5JOxx-mbjC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Meiryo UI ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="4d2z-hPTyXuoOUNdP7N7-6" target="AGS4Acffag1iP77FdVoX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgkbCNKffJWYKyCrZS3h-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Meiryo UI ;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-8" target="CgkbCNKffJWYKyCrZS3h-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="1080" />
+              <mxPoint x="296" y="1080" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RLPgfjMIlKf8fK8N81-h-3" value="ステータス＝提案中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;position2=0.33;fontFamily=Meiryo UI ;fontSize=12;size=20;position=0.57;base=10;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1726" width="130" height="60" as="geometry" />
