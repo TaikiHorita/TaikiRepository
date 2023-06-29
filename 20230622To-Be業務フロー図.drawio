@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T03:04:26.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KkmZKWv_H-dnUgDqxS10" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-29T03:05:10.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tx5gQt9P3isemnCgUhN3" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
     <mxGraphModel dx="1588" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
           <mxGeometry x="82.75" y="1640" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JvuHrvA-f69r37HE9Yix-1" value="4. 提案交渉" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#B266FF;fontFamily=メイリオ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-3" vertex="1">
-          <mxGeometry x="55.5" y="920" width="100" height="80" as="geometry" />
+          <mxGeometry x="55.5" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgkbCNKffJWYKyCrZS3h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;fontSize=12;" parent="4d2z-hPTyXuoOUNdP7N7-1" source="CgkbCNKffJWYKyCrZS3h-4" target="CgkbCNKffJWYKyCrZS3h-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -775,7 +775,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dDyimD24jCjhRqus-62W" name="再提案">
-    <mxGraphModel dx="1222" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -840,7 +840,7 @@
           <mxGeometry x="172" y="290" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZUCPezYNI9x5ekxdaamQ-3" value="3. 提案交渉" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontFamily=メイリオ;strokeColor=#B266FF;fontSize=12;" parent="x-rmQaR-g8VEzOz27R-A-3" vertex="1">
-          <mxGeometry x="176.5" y="643" width="100" height="68" as="geometry" />
+          <mxGeometry x="176.5" y="643" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONgEV3Z8_QpC4IvxPFh9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=メイリオ;fontSize=12;" parent="x-rmQaR-g8VEzOz27R-A-3" source="SqTyAqFLd8u4kymEijCR-1" target="ONgEV3Z8_QpC4IvxPFh9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
