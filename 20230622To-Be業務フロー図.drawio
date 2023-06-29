@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T04:18:14.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AjVz73H7rS3_8hgpAXup" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-29T04:25:34.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="meXmXU3l9oN67PJBnAck" version="21.5.0" type="github" pages="6">
   <diagram id="mi3WjdDZGtC-VfzJtJH9" name="凡例">
-    <mxGraphModel dx="1588" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,13 @@
           <mxGeometry x="210" y="-733" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6vsag00mPE-j-pG3ZVVu-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sales Cloudオブジェクト（標準）&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Meiryo UI ;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="353" y="-720" width="300" height="30" as="geometry" />
+          <mxGeometry x="364" y="-720" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNMOZ26pVQvT2_XfTCiq-1" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=20;fontFamily=Meiryo UI ;size=17;position=0.53;" parent="1" vertex="1">
           <mxGeometry x="210" y="-543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNMOZ26pVQvT2_XfTCiq-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;データ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Meiryo UI ;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="388" y="-550" width="230" height="30" as="geometry" />
+          <mxGeometry x="388" y="-539" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jw4MGq_xxbuSXlyFqfY4-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;fontFamily=Meiryo UI ;" parent="1" vertex="1">
           <mxGeometry x="210" y="-643" width="120" height="70" as="geometry" />
